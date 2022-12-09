@@ -5,7 +5,14 @@
 /.pnp
 .pnp.js
 /public
-/src
+.App.js
+.App.css
+.index.js 
+.index.css
+.App.test.js
+.log.svg
+.reportWebVitals.js
+.setupTests.js
 # testing
 /coverage
 
