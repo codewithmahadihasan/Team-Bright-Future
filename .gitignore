@@ -5,7 +5,7 @@
 /.pnp
 .pnp.js
 /public
-.App.js
+/src.App.js
 .App.css
 .index.js 
 .index.css
